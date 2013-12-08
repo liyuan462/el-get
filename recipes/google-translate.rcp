@@ -2,4 +2,5 @@
        :website "https://github.com/manzyuk/google-translate"
        :description "Emacs interface to Google Translate"
        :type github
+       :load "google-translate.el"
        :pkgname "manzyuk/google-translate")
