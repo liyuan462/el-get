@@ -1,0 +1,5 @@
+(:name google-translate
+       :website "https://github.com/manzyuk/google-translate"
+       :description "Emacs interface to Google Translate"
+       :type github
+       :pkgname "manzyuk/goolge-translate")
